@@ -1,0 +1,3 @@
+bedrooms,bathrooms,zipcode,area,price,
+4,4,85331,148975,1495000,
+4,4,85262,
